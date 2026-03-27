@@ -1,4 +1,4 @@
-# Hi there, I'm Rajesh Chowdhury 👋 
+# Hello Everyone, 👋 I'm Rajesh Chowdhury
 
 ### 🚀 M.Sc. Computer Science Student | 2nd Place Winner @ IIT Roorkee PRODUCTATHON 2026
 
