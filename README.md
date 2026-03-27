@@ -4,7 +4,7 @@
 
 I am a results-driven developer and researcher passionate about bridging the gap between **Artificial Intelligence** and **Full-Stack Web/Mobile Development**. I thrive on turning innovative ideas into functional, industry-ready products.
 
-- 🏆 **IIT Roorkee PRODUCTATHON 2026:** Secured **2nd Place** out of numerous competing teams.
+- 🏆 **IIT Roorkee PRODUCTATHON 2026:** Secured **2nd Place** with my team, which I was leading  out of numerous competing teams.
 - 🎓 **Research:** Currently exploring **Optical Network Security** for my M.Sc. Thesis at South Asian University.
 - 💡 **Goal:** Seeking opportunities to apply my full-stack and ML expertise to solve real-world industry challenges.
 
